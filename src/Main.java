@@ -16,7 +16,7 @@ public class Main {
         };
 
         System.out.println(amountOfWagesPerMonth());
-        System.out.println(employees[7].getFIO());
+        System.out.println(employees[7].getFio());
         System.out.println(employees[3].getEmployeeDepartment());
         System.out.println(employees[3].getSalary());
         listOfEmployees();
